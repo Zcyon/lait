@@ -5,5 +5,8 @@ A lightweight tasklist application made with React, Bulma and love.
 - Tasklist management.
 - Task management.
 
+## License
+This project is licensed under the terms of the MIT license.
+
 ## Side Notes
 Lait it's not an application that has been created to be used in production environments; it was only designed and developed for academic/teaching purposes only. Feel free to play around with the code if you feel like it.
