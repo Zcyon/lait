@@ -1,0 +1,12 @@
+.tasklist-component {
+  background-color: white;
+  height: 100%;
+}
+
+.tasklist-header {
+  color: #1565C0;
+}
+
+.tasklist-body {
+  background-color: white;
+}
